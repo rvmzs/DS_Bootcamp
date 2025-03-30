@@ -1,0 +1,60 @@
+2025-01-06 14:09:01,289 Research instance created
+2025-01-06 14:09:01,289 Reading file
+2025-01-06 14:09:01,289 Checking data
+2025-01-06 14:09:01,289 Calculations instance created
+2025-01-06 14:09:01,289 Calculating counts of heads and tails
+2025-01-06 14:09:01,289 Calculating fractions of heads and tails
+2025-01-06 14:09:01,289 Calculations instance created
+2025-01-06 14:09:01,289 Predicting random observations
+2025-01-06 14:09:01,289 Saving file report.txt
+2025-01-06 14:09:01,289 Sending Telegram message
+2025-01-06 14:09:01,290 Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-06 14:09:04,523 https://api.telegram.org:443 "POST /bot7251670520:AAGbwtY3zrVsB156znye-sgF6A9oxti1sy0/sendMessage HTTP/1.1" 200 287
+2025-01-06 14:19:56,916 Research instance created
+2025-01-06 14:19:56,916 Reading file
+2025-01-06 14:19:56,916 Checking data
+2025-01-06 14:19:56,916 Sending Telegram message
+2025-01-06 14:19:56,917 Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-06 14:19:57,332 https://api.telegram.org:443 "POST /bot7251670520:AAGbwtY3zrVsB156znye-sgF6A9oxti1sy0/sendMessage HTTP/1.1" 200 329
+2025-01-06 14:20:14,354 Research instance created
+2025-01-06 14:20:14,354 Reading file
+2025-01-06 14:20:14,354 Checking data
+2025-01-06 14:20:14,354 Calculations instance created
+2025-01-06 14:20:14,354 Calculating counts of heads and tails
+2025-01-06 14:20:14,354 Calculating fractions of heads and tails
+2025-01-06 14:20:14,354 Calculations instance created
+2025-01-06 14:20:14,354 Predicting random observations
+2025-01-06 14:20:14,354 Saving file report.txt
+2025-01-06 14:20:14,354 Sending Telegram message
+2025-01-06 14:20:14,355 Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-06 14:20:14,622 https://api.telegram.org:443 "POST /bot7251670520:AAGbwtY3zrVsB156znye-sgF6A9oxti1sy0/sendMessage HTTP/1.1" 200 287
+2025-01-08 20:49:21,317 Research instance created
+2025-01-08 20:49:21,317 Reading file
+2025-01-08 20:49:21,317 Checking data
+2025-01-08 20:49:21,317 Sending Telegram message
+2025-01-08 20:49:21,318 Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-08 20:49:21,556 https://api.telegram.org:443 "POST /bot7251670520:AAGbwtY3zrVsB156znye-sgF6A9oxti1sy0/sendMessage HTTP/1.1" 200 329
+2025-01-08 20:49:36,442 Research instance created
+2025-01-08 20:49:36,442 Reading file
+2025-01-08 20:49:36,442 Checking data
+2025-01-08 20:49:36,442 Calculations instance created
+2025-01-08 20:49:36,442 Calculating counts of heads and tails
+2025-01-08 20:49:36,442 Calculating fractions of heads and tails
+2025-01-08 20:49:36,442 Calculations instance created
+2025-01-08 20:49:36,442 Predicting random observations
+2025-01-08 20:49:36,442 Saving file report.txt
+2025-01-08 20:49:36,442 Sending Telegram message
+2025-01-08 20:49:36,443 Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-08 20:49:36,726 https://api.telegram.org:443 "POST /bot7251670520:AAGbwtY3zrVsB156znye-sgF6A9oxti1sy0/sendMessage HTTP/1.1" 200 287
+2025-01-16 18:47:04,916 Research instance created
+2025-01-16 18:47:04,916 Reading file
+2025-01-16 18:47:04,916 Checking data
+2025-01-16 18:47:04,916 Calculations instance created
+2025-01-16 18:47:04,916 Calculating counts of heads and tails
+2025-01-16 18:47:04,917 Calculating fractions of heads and tails
+2025-01-16 18:47:04,917 Calculations instance created
+2025-01-16 18:47:04,917 Predicting random observations
+2025-01-16 18:47:04,917 Saving file report.txt
+2025-01-16 18:47:04,917 Sending Telegram message
+2025-01-16 18:47:04,918 Starting new HTTPS connection (1): api.telegram.org:443
+2025-01-16 18:47:05,157 https://api.telegram.org:443 "POST /bot7251670520:AAGbwtY3zrVsB156znye-sgF6A9oxti1sy0/sendMessage HTTP/1.1" 200 288

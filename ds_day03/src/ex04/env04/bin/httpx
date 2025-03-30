@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/home/rvmzs/Рабочий стол/21_school/DS_Bootcamp/DS_Bootcamp.Day03-1/src/ex04/env04/bin/python3" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from httpx import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())

@@ -11,7 +11,7 @@ def fetch_financial_data(ticker, field):
 
     time.sleep(5)
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36"
+        # place for header
     }
     response = requests.get(url, headers=headers)
 
